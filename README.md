@@ -49,18 +49,13 @@ ShelfSpace
 
 
 
-## Demo
-
-Insert gif or link to demo
+## Demo Video
 
 
-## Deployment
 
-To deploy this project run
+https://github.com/user-attachments/assets/4596676e-2149-42fe-bec3-fe8209a1a766
 
-```bash
-  npm run deploy
-```
+
 
 
 
