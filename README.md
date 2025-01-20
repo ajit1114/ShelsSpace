@@ -1,10 +1,10 @@
 
 ShelfSpace
 
-# SelfSpace
+# ShelfSpace
 
 ## Description
-**SelfSpace** is a web-based platform built using Java technologies, enabling users to seamlessly buy and sell old books. Designed for simplicity and efficiency, it also provides robust features for administrators to manage books and orders. The platform bridges the gap between users and their desired books, whether they are buyers, sellers, or administrators.
+**ShelfSpace** is a web-based platform built using Java technologies, enabling users to seamlessly buy and sell old books. Designed for simplicity and efficiency, it also provides robust features for administrators to manage books and orders. The platform bridges the gap between users and their desired books, whether they are buyers, sellers, or administrators.
 
 ---
 
